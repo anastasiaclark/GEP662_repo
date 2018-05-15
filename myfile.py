@@ -6,3 +6,4 @@ def convert(number):
     return number*0.000189394
 
 a = 1
+b = 13
